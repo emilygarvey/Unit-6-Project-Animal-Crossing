@@ -1,0 +1,26 @@
+img {
+    width:200px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.WTF {
+    display:flex;
+    justify-content:space-around;
+}
+
+p {
+    font-family: 'Source Code Pro', monospace;
+    text-align:center;
+}
+
+body {
+    background-color:#f2a0ae;
+}
+
+button {
+    padding:8px;
+    background-color:#6ab87f;
+    font-family: 'Geo', sans-serif;
+}
